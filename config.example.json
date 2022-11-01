@@ -1,0 +1,17 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "sca!",
+        "guild": "",
+        "cooldownCacheTTL": 259200
+    },
+    "redis": {
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": ""
+    },
+    "discord": {
+        "username": "The channel ID to fetch the usernames from"
+    }
+}
